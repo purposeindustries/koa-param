@@ -1,6 +1,6 @@
 {
   "name": "koa-param",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolve koa params",
   "scripts": {
     "test": "mocha test.js"
